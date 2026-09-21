@@ -1,0 +1,6 @@
+LinkedList Questions
+1. Create a Java Application where we need to create a LinkedList Object by using
+Integer as its Generic type, add 5 elements to the LinkedList, remove the
+element at the second index of the list, add a new element at the second index of
+the list, replace the third index element with a new element and print the
+LinkedList by using ListIterator in both forward and backward dire
